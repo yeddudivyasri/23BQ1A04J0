@@ -1,1 +1,2 @@
-"# 23BQ1A04J0" 
+cd C:\Users\DIVYA\23BQ1A04J0
+echo # 23BQ1A04J0 > README.md
